@@ -1,0 +1,8 @@
+# My Personal and Academic Goals for Next Year
+
+- Improve my programming skills by building at least 3 complete projects.
+- Gain proficiency in version control and collaboration using Git and GitHub.
+- Learn a backend technology (e.g., Node.js, Django, or Flask).
+- Contribute to at least one open-source project.
+- Maintain consistent academic performance with a focus on applied learning.
+- Prepare for industry certifications related to cloud computing or DevOps.
