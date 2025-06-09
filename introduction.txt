@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+Hello! My name is Tsungai Mukozho. I am currently learning GitHub and version control systems to enhance my skills in software development and project collaboration.
+
+I am passionate about technology and excited to begin my journey in contributing to open-source projects and learning more about DevOps practices.
